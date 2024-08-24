@@ -20,10 +20,10 @@
 
 CURRENTLY RUNNING ON BETA VERSION!!
 *
-   * @project_name : Suhail-Md
-   * @author : Suhail Tech Info
+   * @project_name : yonahraj-Md
+   * @author : yonahraj Tech Info
    * @youtube : https://www.youtube.com/c/@SuhailTechInfo
-   * @infoription : Suhail-Md ,A Multi-functional whatsapp user bot.
+   * @infoription : yonahraj-Md ,A Multi-functional whatsapp user bot.
    * @version 1.3.5 
 *
    * Licensed under the  GPL-3.0 License;
